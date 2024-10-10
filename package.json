@@ -1,0 +1,21 @@
+{
+  "name": "code-notes",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeyAI/code-notes.git"
+  }
+}
